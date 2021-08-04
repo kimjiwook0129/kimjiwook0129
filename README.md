@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--![](https://visitor-badge.glitch.me/badge?page_id=kimjiwook0129.kimjiwook0129)-->
+![](https://visitor-badge.glitch.me/badge?page_id=kimjiwook0129.kimjiwook0129)
 
 **Profile Links:**
 
