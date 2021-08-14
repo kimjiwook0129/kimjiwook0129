@@ -42,4 +42,6 @@
 <code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg'></code>
 <br>
 
+![theblobscp](https://github-readme-stats.vercel.app/api/top-langs?username=kimjiwook0129&show_icons=true&locale=en&layout=compact&theme=vue-dark)
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kimjiwook0129)
