@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![](https://visitor-badge.glitch.me/badge?page_id=kimjiwook0129.kimjiwook0129)
-
 **LinkedIn:**
 
 <code><a href="https://www.linkedin.com/in/edwardjiwookkim/" target="_blank"><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg'></a></code>
