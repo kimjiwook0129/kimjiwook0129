@@ -10,7 +10,7 @@
 **Languages:**
 
 <code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg'></code>
-<code><img height="20" src='sql-file-format.svg'></code>
+<code><img height="20" src='images/sql-file-format.svg'></code>
 <code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg'></code>
 <code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'></code>
 <code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'></code>
@@ -26,7 +26,7 @@
 
 <code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg'></code>
 <code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg'></code>
-<code><img height="20" src='langchain-original.svg'></code>
+<code><img height="20" src='images/langchain-original.svg'></code>
 <code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg'></code>
 <code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg'></code>
 <code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg'></code>
@@ -38,16 +38,16 @@
 
 <code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg'></code>
 <code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg'></code>
-<code><img height="20" src='dataiku.png'></code>
+<code><img height="20" src='images/dataiku.png'></code>
 <code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg'></code>
 <code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg'></code>
 <code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg'></code>
 <code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg'></code>
 <code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg'></code>
 <code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg'></code>
-<code><img height="20" src='excel.png'></code>
-<code><img height="20" src='word.png'></code>
-<code><img height="20" src='powerbi.png'></code>
+<code><img height="20" src='images/excel.png'></code>
+<code><img height="20" src='images/word.png'></code>
+<code><img height="20" src='images/powerbi.png'></code>
 <br>
 
 ![theblobscp](https://github-readme-stats.vercel.app/api/top-langs?username=kimjiwook0129&show_icons=true&locale=en&layout=compact&theme=vue-dark)
