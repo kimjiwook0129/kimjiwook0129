@@ -1,24 +1,20 @@
-### Hi there 👋
+## Hi there 👋 I'm Edward Kim
 
 **LinkedIn:**
 
 <code><a href="https://www.linkedin.com/in/edwardjiwookkim/" target="_blank"><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg'></a></code>
-<br>
 
-**Languages:**
+**Programming Languages:**
 
 <code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg'></code>
 <code><img height="20" src='images/sql-file-format.svg'></code>
 <code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg'></code>
+<code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'></code>
 <code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'></code>
-<code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'></code>
-<code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'></code>
-<code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg'></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg'></code>
 <code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg'></code>
 <code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg'></code>
-
-<br>
 
 **Libraries & Frameworks:**
 
@@ -28,9 +24,6 @@
 <code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg'></code>
 <code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg'></code>
 <code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg'></code>
-
-
-<br>
 
 **Tools & Softwares:**
 
@@ -46,8 +39,10 @@
 <code><img height="20" src='images/excel.png'></code>
 <code><img height="20" src='images/word.png'></code>
 <code><img height="20" src='images/powerbi.png'></code>
-<br>
 
-![theblobscp](https://github-readme-stats.vercel.app/api/top-langs?username=kimjiwook0129&show_icons=true&locale=en&layout=compact&theme=vue-dark)
+### 📊 GitHub Analytics
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=kimjiwook0129)
+<p align="center">
+  <img width="43%" src="https://github-readme-streak-stats.herokuapp.com/?user=kimjiwook0129&theme=merko&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kimjiwook0129&theme=merko&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
+</p>
