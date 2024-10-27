@@ -17,6 +17,7 @@
 <code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg'></code>
 
 **Data & ML Frameworks/Libraries:**  
+<code><img height="20" src='images/openai.svg'></code>
 <code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg'></code>
 <code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg'></code>
 <code><img height="20" src='images/langchain-original.svg'></code>
