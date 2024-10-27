@@ -50,6 +50,7 @@
 
 <code><a href="https://www.linkedin.com/in/edwardjiwookkim/" target="_blank"><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg'></a></code>
 <code><a href="https://www.github.com/kimjiwook0129" target="_blank"><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg'></a></code>
+<code><a href="https://leetcode.com/u/kimjiwook129/" target="_blank"><img height="20" src='images/leetcode.svg'></a></code>
 
 ### 📊 GitHub Analytics
 
