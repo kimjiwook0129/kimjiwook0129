@@ -33,6 +33,7 @@
 <code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'></code>
 <code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg'></code>
 
+
 **Cloud & DevOps Tools:**  
 <code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg'></code>
 <code><img height="20" src='images/dataiku.png'></code>
@@ -41,7 +42,8 @@
 <code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg'></code>
 <code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg'></code>
 <code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg'></code>
-
+<code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg'></code>
+<code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg'></code>
 
 **Databases & Vector Stores:**  
 <code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg'></code>
