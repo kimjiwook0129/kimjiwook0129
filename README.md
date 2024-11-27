@@ -14,6 +14,7 @@
 <code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg'></code>
+<code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg'></code>
 <code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg'></code>
 
 **Data & ML Frameworks/Libraries:**  
@@ -30,6 +31,7 @@
 <code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg'></code>
 <code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg'></code>
 <code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg'></code>
+<code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg'></code>
 <code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'></code>
 <code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg'></code>
 
@@ -63,5 +65,5 @@
 
 <p align="center">
   <img width="43%" src="https://github-readme-streak-stats.herokuapp.com/?user=kimjiwook0129&theme=merko&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kimjiwook0129&theme=merko&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kimjiwook0129&theme=merko&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
 </p>
