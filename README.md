@@ -53,6 +53,7 @@
 <code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg'></code>
 <code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg'></code>
 <code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynamodb/dynamodb-original.svg'></code>
+<code><img height="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg'></code>
 
 
 **Let's Connect:**
