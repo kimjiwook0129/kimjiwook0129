@@ -64,7 +64,6 @@
 
 ### 📊 GitHub Analytics
 
-<p align="center">
+<p align="left">
   <img width="43%" src="https://github-readme-streak-stats.herokuapp.com/?user=kimjiwook0129&theme=merko&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kimjiwook0129&theme=merko&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
 </p>
