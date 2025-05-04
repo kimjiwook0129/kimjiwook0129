@@ -64,6 +64,6 @@
 
 ### 📊 GitHub Analytics
 
-<p align="left">
-  <img width="43%" src="https://github-readme-streak-stats.herokuapp.com/?user=kimjiwook0129&theme=merko&hide_border=true" />
-</p>
+![Stats](https://github-readme-streak-stats.herokuapp.com/?user=kimjiwook0129&theme=merko&hide_border=true)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimjiwook0129&theme=github_dark)
+
